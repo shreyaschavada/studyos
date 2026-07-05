@@ -42,5 +42,5 @@ StudyOS provides a single workspace where students can manage their academic act
 
 ## Live Demo
 
-Vercel: *Add your deployment link here*
+Vercel: https://studyos-eta-two.vercel.app/
 
